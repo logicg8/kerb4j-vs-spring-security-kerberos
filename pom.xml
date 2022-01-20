@@ -14,7 +14,7 @@
 	<artifactId>sso-kerby2</artifactId>
 	<version>1.0</version>
 	<name>sso-kerby2</name>
-	<description>Learning how to use kerberos with Spring Security and Kerby</description>
+	<description>Learning how to use kerberos with Spring Security, AD, and kerb4j</description>
 
     <dependencies>
     	<dependency>
